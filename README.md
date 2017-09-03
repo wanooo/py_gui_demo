@@ -1,2 +1,2 @@
 # py_gui_demo
-my oython gui demo
+my python gui demo
